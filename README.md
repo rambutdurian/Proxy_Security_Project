@@ -85,10 +85,14 @@ Result: The server reflected the payload back without sanitization. This highlig
 
 ##  🚀 How to Replicate
 Install Squid: sudo apt update && sudo apt install squid -y
+
 Edit Config: Add ACL rules to /etc/squid/squid.conf.
+
 Restart Service: sudo systemctl restart squid.
+
 Configure Client: Set Windows Proxy settings to the Kali IP address on port 3128.
 
 
 ##  ⚠️ Disclaimer
+
 This project was conducted in a controlled virtual environment for educational purposes (University Course CST338). All vulnerability scans were performed on authorized testing applications (testphp.vulnweb.com).
