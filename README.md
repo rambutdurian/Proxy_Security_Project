@@ -95,4 +95,5 @@ Configure Client: Set Windows Proxy settings to the Kali IP address on port 3128
 
 ##  ⚠️ Disclaimer
 
-This project was conducted in a controlled virtual environment for educational purposes (University Course CST338). All vulnerability scans were performed on authorized testing applications (testphp.vulnweb.com).
+This project was conducted in a controlled virtual environment for educational purposes. All vulnerability scans were performed on authorized testing applications (testphp.vulnweb.com).
+
